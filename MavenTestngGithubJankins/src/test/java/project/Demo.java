@@ -16,7 +16,7 @@ public class Demo {
 	}
 	
 	@Test
-	public void testM() {
+	public void testR() {
 		Reporter.log("Hi",true);
 	}
 	
