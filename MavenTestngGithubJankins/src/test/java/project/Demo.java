@@ -13,5 +13,11 @@ public class Demo {
 	@Test
 	public void testY() {
 		Reporter.log("Hi",true);
-	}	
+	}
+	
+	@Test
+	public void testM() {
+		Reporter.log("Hi",true);
+	}
+	
 }
