@@ -6,12 +6,12 @@ import org.testng.annotations.Test;
 public class Demo {
 
 	@Test
-	public void testA() {
+	public void testX() {
 		Reporter.log("Hi",true);		
 	}
 	
 	@Test
-	public void testB() {
+	public void testY() {
 		Reporter.log("Hi",true);
 	}	
 }
