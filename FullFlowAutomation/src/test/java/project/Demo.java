@@ -13,7 +13,7 @@ public class Demo {
 
 	@Test
 	public void testA() {
-		Reporter.log("Hi",true);		
+		Reporter.log("Hello Hi message",true);		
 	}
 	
 	@Test
